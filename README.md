@@ -6,6 +6,8 @@ A 2-bit Vedic multiplier uses the "Urdhva Tiryakbhyam" (Vertically and Crosswise
 
 This project includes the implementation of a 2-bit Vedic multiplier in SystemVerilog. The design is broken down into the main multiplier module and a half adder module. Additionally, a self-checking testbench is provided to verify the correctness of the multiplier.
 
+![vedic](https://github.com/user-attachments/assets/87709412-4440-404e-ad87-427866cba92c)
+
 ## File Structure
 
 - `vedicMul_2.sv`: The main module for the 2-bit Vedic multiplier.
@@ -52,3 +54,13 @@ To simulate the design, follow these steps:
 To get a local copy of the project, you can clone the repository using the below mentioned command:
 
       git clone https://github.com/riaagarwal21/2-bit-Vedic-Multiplier
+
+## Simulation Results
+
+![image](https://github.com/user-attachments/assets/1548101f-9a3f-405e-baa7-d9d48574af1d)
+![image](https://github.com/user-attachments/assets/06bd7187-bc2f-48ec-b2d9-8e8af18a03a0)
+
+Waveform
+![image](https://github.com/user-attachments/assets/3605ccff-9e55-462f-853a-2d65e1869b28)
+
+
